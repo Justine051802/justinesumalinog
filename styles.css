@@ -11,7 +11,6 @@ body {
   line-height: 1.6;
 }
 
-/* ========== Header ========== */
 header {
   display: flex;
   justify-content: space-between;
@@ -45,7 +44,6 @@ nav ul li a:hover {
   color: #ff4500;
 }
 
-/* ========== Intro Section ========== */
 .intro {
   text-align: center;
   padding: 100px 20px;
@@ -88,7 +86,6 @@ nav ul li a:hover {
   background: #e63e00;
 }
 
-/* ========== About Section ========== */
 #about {
   padding: 60px 20px;
   text-align: center;
@@ -117,7 +114,6 @@ nav ul li a:hover {
   border: 3px solid #ff4500;
 }
 
-/* ========== Services Section ========== */
 #services {
   padding: 60px 20px;
   background: #111;
@@ -162,7 +158,6 @@ nav ul li a:hover {
   margin-bottom: 10px;
 }
 
-/* ========== Contact Section ========== */
 #contact {
   padding: 60px 20px;
   background: #222;
@@ -213,7 +208,6 @@ button:hover {
   background: #e63e00;
 }
 
-/* ========== Footer ========== */
 footer {
   padding: 20px;
   background: linear-gradient(to right, #0077b6, #023e8a);
@@ -224,4 +218,5 @@ footer {
 
 footer span {
   font-weight: bold;
+
 }
